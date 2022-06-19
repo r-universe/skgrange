@@ -1,0 +1,10 @@
+[
+  {
+    "package": "rmweather",
+    "oncran": true
+  },
+  {
+    "package": "saqgetr",
+    "oncran": true
+  }
+]
