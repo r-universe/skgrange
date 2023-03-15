@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "rmweather"]
-	path = rmweather
-	url = https://github.com/skgrange/rmweather
-	shallow = true
-	registered = true
 [submodule "saqgetr"]
 	path = saqgetr
 	url = https://github.com/skgrange/saqgetr
+	shallow = true
+	registered = true
+[submodule "rmweather"]
+	path = rmweather
+	url = https://github.com/skgrange/rmweather
 	shallow = true
 	registered = true
